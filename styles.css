@@ -63,5 +63,6 @@ aside {
 }
 
 footer {
-    background-color: aqua;
+    background-color: rgb(123, 255, 233);
+    text-align: center;
 }
